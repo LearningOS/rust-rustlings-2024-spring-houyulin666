@@ -11,5 +11,4 @@ fn main() {
         res += x;
         println!("{}", res);
     }
-    println!("{}", res);
 }
